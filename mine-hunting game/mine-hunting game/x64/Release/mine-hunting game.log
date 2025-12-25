@@ -1,0 +1,8 @@
+﻿  game.c
+  test.c
+F:\敲代码\mine-hunting game\mine-hunting game\game.c(72,34): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  mine-hunting game.vcxproj -> F:\敲代码\mine-hunting game\x64\Release\mine-hunting game.exe

@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+F:\敲代码\mine-hunting game\mine-hunting game\game.c(72,34): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码...
+  mine-hunting game.vcxproj -> F:\敲代码\mine-hunting game\x64\Debug\mine-hunting game.exe
