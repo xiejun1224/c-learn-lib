@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|solutionrelative:BinaryTreeNode\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|solutionrelative:BinaryTreeNode\\BinaryTreeNode.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|solutionrelative:BinaryTreeNode\\BinaryTreeNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|solutionrelative:BinaryTreeNode\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AC4A64D-3D12-4E9F-AECB-579F19A7C74E}|BinaryTreeNode\\BinaryTreeNode.vcxproj|solutionrelative:BinaryTreeNode\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.c",
+              "DocumentMoniker": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.c",
+              "RelativeDocumentMoniker": "BinaryTreeNode\\Queue.c",
+              "ToolTip": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.c",
+              "RelativeToolTip": "BinaryTreeNode\\Queue.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-08T09:29:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.h",
+              "DocumentMoniker": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.h",
+              "RelativeDocumentMoniker": "BinaryTreeNode\\Queue.h",
+              "ToolTip": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\Queue.h",
+              "RelativeToolTip": "BinaryTreeNode\\Queue.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-08T09:13:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\test.c",
+              "RelativeDocumentMoniker": "BinaryTreeNode\\test.c",
+              "ToolTip": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\test.c",
+              "RelativeToolTip": "BinaryTreeNode\\test.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-04T06:25:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTreeNode.c",
+              "DocumentMoniker": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.c",
+              "RelativeDocumentMoniker": "BinaryTreeNode\\BinaryTreeNode.c",
+              "ToolTip": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.c",
+              "RelativeToolTip": "BinaryTreeNode\\BinaryTreeNode.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-04T06:25:43.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTreeNode.h",
+              "DocumentMoniker": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.h",
+              "RelativeDocumentMoniker": "BinaryTreeNode\\BinaryTreeNode.h",
+              "ToolTip": "F:\\\u6572\u4EE3\u7801\\BinaryTreeNode\\BinaryTreeNode\\BinaryTreeNode.h",
+              "RelativeToolTip": "BinaryTreeNode\\BinaryTreeNode.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-04T06:25:11.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
